@@ -22,9 +22,3 @@
 if(BUILD_PLAYERBOT)
     add_subdirectory(Bots)
 endif()
-
-# Include Immersive if enabled
-#if(BUILD_IMMERSIVE)
-#    add_subdirectory(Immersive)
-#endif()
-
